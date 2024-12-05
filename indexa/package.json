@@ -4,6 +4,7 @@
   "scripts": {
     "ng": "ng",
     "ngc": "ng generate component",
+    "ngi": "ng generate interface",
     "ngs": "ng generate service",
     "ngm": "ng generate module",
     "start": "ng serve",
